@@ -1,4 +1,5 @@
 # StreamDeck LiveScreen
+![IMG_1307 (3)](https://user-images.githubusercontent.com/83812355/219875744-740a468b-33a7-41c2-9c1d-8bf2fd42b8ee.gif)
 
 This code allows you to display of your entire desktop on a <a href="https://www.elgato.com/en/gaming/stream-deck">StreamDeck</a> device.<br/>Each key on the StreamDeck represents a portion of the screen, allowing you to monitor your entire desktop at a glance.
 
